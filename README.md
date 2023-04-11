@@ -1,4 +1,4 @@
-<h1>Hello! I'm Elvis, an <a href="https://www.linkedin.com/in/elvis-lopez-9b43231b1">IT Professional</a>☺</h1>
+<h1>Hello! I'm Elvis, an <a href="https://www.linkedin.com/in/elvis-lopez-9b43231b1">IT Professional</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
